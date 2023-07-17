@@ -1,4 +1,4 @@
-package project3
+package main
 
 import "fmt"
 
