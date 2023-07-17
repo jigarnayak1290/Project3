@@ -2,7 +2,7 @@ package india
 
 import "fmt"
 
-func helloIndia() {
+func HelloIndia() {
 	fmt.Println("Hello from India")
 
 }
